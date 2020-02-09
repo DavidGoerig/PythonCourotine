@@ -1,0 +1,12 @@
+Average for command: coroutines.py useful.py is .04240000000000000000
+Standard deviation for command: "coroutines.py useful.py" is .00323109888428070241
+Standard error of the mean for command: "coroutines.py useful.py" is .00102176318195558406
+
+Average for command: class.py useful.py is .04330000000000000000
+Standard deviation for command: "class.py useful.py" is .00395094925302768220
+Standard error of the mean for command: "class.py useful.py" is .00124939985593083849
+
+Average for command: nested_loops.py useful.py is .03910000000000000000
+Standard deviation for command: "nested_loops.py useful.py" is .00561159513863927998
+Standard error of the mean for command: "nested_loops.py useful.py" is .00177454219448284745
+
